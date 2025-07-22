@@ -1,5 +1,10 @@
 # Ware-House
 This project demonstrates an automated warehouse system that uses a robotic arm and conveyor belt to move boxes from storage shelves to a processing area. The system is designed to operate continuously, improving warehouse efficiency and reducing manual labor.
+![Ware-House](warehouse.gif)
+
+
+
+
 
 ## Components
 - **Robotic Arm**: Picks and places boxes from shelves to the conveyor.
